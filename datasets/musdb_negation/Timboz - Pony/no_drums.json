@@ -1,0 +1,13 @@
+{
+    "neg": [
+        "drums"
+    ],
+    "pos": [
+        "vocals",
+        "bass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes vocals, bass, but without drums.\n",
+    "captions": "\nStyle 1:\nThis track features vocals and bass, but no drums.\n\nStyle 2:\nThis song has vocals and bass, omitting drums.\n\nStyle 3:\nNo drums are present in this song, but vocals and bass are included.",
+    "start_idx": 61
+}

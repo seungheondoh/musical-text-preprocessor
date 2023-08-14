@@ -1,0 +1,16 @@
+{
+    "neg": [
+        "Bass"
+    ],
+    "pos": [
+        "Strings",
+        "Synth Lead",
+        "Guitar",
+        "Piano",
+        "Drums"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Strings, Synth Lead, Guitar, Piano, Drums, but without Bass.\n",
+    "captions": "\nStyle 1:\nThis track features Strings, a Synth Lead, a Guitar, Piano, Drums - but no Bass.\n\nStyle 2:\nThis song is comprised of Strings, a Synth Lead, a Guitar, Piano, Drums - yet no Bass.\n\nStyle 3:\nThis composition includes Strings, a Synth Lead, a Guitar, Piano, Drums - yet Bass is absent.",
+    "start_idx": 102
+}

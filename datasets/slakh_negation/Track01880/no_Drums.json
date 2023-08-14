@@ -1,0 +1,16 @@
+{
+    "neg": [
+        "Drums"
+    ],
+    "pos": [
+        "Organ",
+        "Chromatic Percussion",
+        "Guitar",
+        "Synth Pad",
+        "Piano"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Organ, Chromatic Percussion, Guitar, Synth Pad, Piano, but without Drums.\n",
+    "captions": "\nStyle 1:\nOrgan, Chromatic Percussion, Guitar, Synth Pad, and Piano are all featured in this song, but Drums are absent.\n\nStyle 2:\nThis song is composed of Organ, Chromatic Percussion, Guitar, Synth Pad, and Piano, but no Drums.\n\nStyle 3:\nThis composition is comprised of Organ, Chromatic Percussion, Guitar, Synth Pad, and Piano, omitting Drums.",
+    "start_idx": 204
+}

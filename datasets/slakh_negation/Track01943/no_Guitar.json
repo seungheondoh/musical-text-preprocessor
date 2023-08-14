@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Guitar"
+    ],
+    "pos": [
+        "Bass",
+        "Piano",
+        "Drums",
+        "Reed"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Bass, Piano, Drums, Reed, but without Guitar.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Bass, Piano, Drums, and Reed, but no Guitar.\n\nStyle 2:\nThis song is composed of Bass, Piano, Drums, and Reed, but no Guitar.\n\nStyle 3:\nThis composition has Bass, Piano, Drums, and Reed, but no Guitar.",
+    "start_idx": 4
+}

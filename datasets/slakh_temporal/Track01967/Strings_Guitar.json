@@ -1,0 +1,10 @@
+{
+    "inst_a": "Guitar",
+    "inst_b": "Strings",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Guitar is played after Strings.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nStrings are heard first, followed by the sound of the guitar.\nGuitar follows the strings in the musical sequence.\nThe guitar comes after the strings.\n\nStyle 2:\nThe strings come before the guitar in the musical arrangement.\nThe guitar is the second instrument to be heard.\nStrings are the first instrument in the musical order.\n\nStyle 3:\nThe strings are the initial sound in the musical sequence.\nThe guitar is",
+    "start_idx": "129"
+}

@@ -1,0 +1,17 @@
+{
+    "neg": [
+        "Synth Pad"
+    ],
+    "pos": [
+        "Bass",
+        "Guitar",
+        "Reed",
+        "Piano",
+        "Chromatic Percussion",
+        "Drums"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Bass, Guitar, Reed, Piano, Chromatic Percussion, Drums, but without Synth Pad.\n",
+    "captions": "\nStyle 1:\nThis song is composed of Bass, Guitar, Reed, Piano, Chromatic Percussion, Drums, but without the addition of a Synth Pad.\n\nStyle 2:\nThis composition features Bass, Guitar, Reed, Piano, Chromatic Percussion, Drums, but no Synth Pad.\n\nStyle 3:\nThe instruments used in this song are Bass, Guitar, Reed, Piano, Chromatic Percussion, Drums, omitting the Syn",
+    "start_idx": 216
+}

@@ -1,0 +1,17 @@
+{
+    "neg": [
+        "Chromatic Percussion"
+    ],
+    "pos": [
+        "Drums",
+        "Synth Lead",
+        "Bass",
+        "Strings",
+        "Piano",
+        "Guitar"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Drums, Synth Lead, Bass, Strings, Piano, Guitar, but without Chromatic Percussion.\n",
+    "captions": "\nStyle 1:\nThis track features Drums, a Synth Lead, Bass, Strings, Piano, and Guitar, but no Chromatic Percussion.\n\nStyle 2:\nThis composition is comprised of Drums, a Synth Lead, Bass, Strings, Piano, and Guitar, omitting Chromatic Percussion.\n\nStyle 3:\nThis song has Drums, a Synth Lead, Bass, Strings, Piano, and Guitar, excluding Chromatic Per",
+    "start_idx": 119
+}

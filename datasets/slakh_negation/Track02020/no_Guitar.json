@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Guitar"
+    ],
+    "pos": [
+        "Chromatic Percussion",
+        "Synth Lead",
+        "Drums",
+        "Bass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Chromatic Percussion, Synth Lead, Drums, Bass, but without Guitar.\n",
+    "captions": "\nStyle 1:\nThis track features Drums, Bass, Chromatic Percussion, and a Synth Lead, but no Guitar.\n\nStyle 2:\nThis song has no Guitar, but does include Drums, Bass, Chromatic Percussion, and a Synth Lead.\n\nStyle 3:\nNo Guitar is present in this song, but it does have Bass, Drums, Chromatic Percussion, and a Synth Lead.",
+    "start_idx": 222
+}

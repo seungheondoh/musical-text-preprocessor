@@ -1,0 +1,19 @@
+{
+    "neg": [
+        "Reed"
+    ],
+    "pos": [
+        "Drums",
+        "Organ",
+        "Chromatic Percussion",
+        "Strings",
+        "Piano",
+        "Guitar",
+        "Bass",
+        "Synth Pad"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Drums, Organ, Chromatic Percussion, Strings, Piano, Guitar, Bass, Synth Pad, but without Reed.\n",
+    "captions": "\nStyle 1:\nThis song features a combination of Drums, Organ, Chromatic Percussion, Strings, Piano, Guitar, Bass, and Synth Pad, but no Reed.\n\nStyle 2:\nThis composition is comprised of Drums, Organ, Chromatic Percussion, Strings, Piano, Guitar, Bass, and Synth Pad, omitting Reed.\n\nStyle 3:\nThis piece is played with Drums, Organ, Chromatic Percussion, Str",
+    "start_idx": 118
+}

@@ -1,0 +1,10 @@
+{
+    "inst_a": "Bass",
+    "inst_b": "Synth Pad",
+    "order": "before",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Bass is played before Synth Pad.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nBass plays first.\nSynth Pad follows.\n\nStyle 2:\nBass comes before Synth Pad.\nThe order is Bass then Synth Pad.\n\nStyle 3:\nBass is the initial sound.\nSynth Pad follows Bass.",
+    "start_idx": "127"
+}

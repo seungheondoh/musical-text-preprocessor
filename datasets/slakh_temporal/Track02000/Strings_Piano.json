@@ -1,0 +1,10 @@
+{
+    "inst_a": "Piano",
+    "inst_b": "Strings",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Piano is played after Strings.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nStrings are heard first, followed by Piano.\n\nStyle 2:\nThe sound of Strings precedes Piano.\n\nStyle 3:\nPiano follows Strings in the musical sequence.",
+    "start_idx": "119"
+}

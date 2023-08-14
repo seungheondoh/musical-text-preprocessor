@@ -1,0 +1,10 @@
+{
+    "inst_a": "Drums",
+    "inst_b": "Bass",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Drums is played after Bass.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nDrums follow Bass.\nBass is first.\nDrums come after.\n\nStyle 2:\nBass is the initial sound.\nDrums come after.\nThe sequence is Bass then Drums.\n\nStyle 3:\nBass is the starting point.\nDrums come after.\nThe order is Bass, then Drums.",
+    "start_idx": "82"
+}

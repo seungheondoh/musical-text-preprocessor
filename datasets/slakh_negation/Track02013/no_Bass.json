@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Bass"
+    ],
+    "pos": [
+        "Guitar",
+        "Chromatic Percussion",
+        "Drums",
+        "Piano"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Guitar, Chromatic Percussion, Drums, Piano, but without Bass.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Piano, Guitar, Drums, and Chromatic Percussion, but no Bass.\n\nStyle 2:\nThis song is composed of Guitar, Chromatic Percussion, Drums, and Piano, omitting Bass.\n\nStyle 3:\nNo Bass is included in this song, but it does have Piano, Guitar, Drums, and Chromatic Percussion.",
+    "start_idx": 42
+}

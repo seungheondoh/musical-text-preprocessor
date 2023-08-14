@@ -1,0 +1,10 @@
+{
+    "inst_a": "Chromatic Percussion",
+    "inst_b": "Synth Pad",
+    "order": "before",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Chromatic Percussion is played before Synth Pad.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nChromatic Percussion\nSynth Pad\n\nStyle 1:\nChromatic Percussion is the first sound heard.\nIt is followed by the Synth Pad.\nThe two instruments play in sequence.\n\nStyle 2:\nChromatic Percussion plays before Synth Pad.\nThe two instruments are heard in succession.\nThe order is clear and distinct.\n\nStyle 3:\nChromatic Percussion is the initial sound.\nSynth Pad follows",
+    "start_idx": "204"
+}

@@ -1,0 +1,17 @@
+{
+    "neg": [
+        "Synth Pad"
+    ],
+    "pos": [
+        "Brass",
+        "Bass",
+        "Drums",
+        "Reed",
+        "Piano",
+        "Guitar"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Brass, Bass, Drums, Reed, Piano, Guitar, but without Synth Pad.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Brass, Bass, Drums, Reed, Piano, and Guitar, but no Synth Pad.\n\nStyle 2:\nThis song is composed of Brass, Bass, Drums, Reed, Piano, and Guitar, omitting the Synth Pad.\n\nStyle 3:\nThis composition is comprised of Brass, Bass, Drums, Reed, Piano, and Guitar, excluding the Synth Pad.",
+    "start_idx": 8
+}

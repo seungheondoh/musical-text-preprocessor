@@ -1,0 +1,17 @@
+{
+    "neg": [
+        "Chromatic Percussion"
+    ],
+    "pos": [
+        "Bass",
+        "Piano",
+        "Drums",
+        "Reed",
+        "Guitar",
+        "Brass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Bass, Piano, Drums, Reed, Guitar, Brass, but without Chromatic Percussion.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Bass, Piano, Drums, Reed, Guitar, and Brass, but no Chromatic Percussion.\n\nStyle 2:\nThis song is composed of Bass, Piano, Drums, Reed, Guitar, and Brass, omitting Chromatic Percussion.\n\nStyle 3:\nThis composition consists of Bass, Piano, Drums, Reed, Guitar, and Brass, excluding Chromatic Percussion.",
+    "start_idx": 117
+}

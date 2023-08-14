@@ -1,0 +1,17 @@
+{
+    "neg": [
+        "Reed"
+    ],
+    "pos": [
+        "Guitar",
+        "Piano",
+        "Synth Pad",
+        "Drums",
+        "Brass",
+        "Bass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Guitar, Piano, Synth Pad, Drums, Brass, Bass, but without Reed.\n",
+    "captions": "\nStyle 1:\nThis track features a combination of Guitar, Piano, Synth Pad, Drums, Brass, and Bass, but no Reed.\n\nStyle 2:\nThis song is composed of Guitar, Piano, Synth Pad, Drums, Brass, and Bass, omitting Reed.\n\nStyle 3:\nGuitar, Piano, Synth Pad, Drums, Brass, and Bass are all present in this song, but Reed is absent.",
+    "start_idx": 8
+}

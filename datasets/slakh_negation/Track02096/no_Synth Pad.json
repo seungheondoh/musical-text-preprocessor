@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Synth Pad"
+    ],
+    "pos": [
+        "Bass",
+        "Drums",
+        "Guitar",
+        "Piano"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Bass, Drums, Guitar, Piano, but without Synth Pad.\n",
+    "captions": "\nStyle 1:\nThis track features Bass, Drums, Guitar, and Piano, but no Synth Pad.\n\nStyle 2:\nThis song is comprised of Bass, Drums, Guitar, and Piano, omitting the Synth Pad.\n\nStyle 3:\nThis composition is Bass, Drums, Guitar, Piano - no Synth Pad.",
+    "start_idx": 103
+}

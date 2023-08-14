@@ -1,0 +1,10 @@
+{
+    "inst_a": "Drums",
+    "inst_b": "Organ",
+    "order": "before",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Drums is played before Organ.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nDrums sound first, followed by Organ.\n\nStyle 2:\nThe beat of the Drums comes before the melody of the Organ.\n\nStyle 3:\nDrums precede Organ in the musical sequence.",
+    "start_idx": "117"
+}

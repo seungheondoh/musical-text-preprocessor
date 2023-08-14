@@ -1,0 +1,16 @@
+{
+    "neg": [
+        "Bass"
+    ],
+    "pos": [
+        "Organ",
+        "Synth Pad",
+        "Piano",
+        "Guitar",
+        "Drums"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Organ, Synth Pad, Piano, Guitar, Drums, but without Bass.\n",
+    "captions": "\nStyle 1:\nThis track features Organ, Synth Pad, Piano, Guitar, and Drums, but no Bass.\n\nStyle 2:\nThis composition is comprised of Organ, Synth Pad, Piano, Guitar, and Drums, omitting Bass.\n\nStyle 3:\nThis song is made up of Organ, Synth Pad, Piano, Guitar, and Drums, Bass excluded.",
+    "start_idx": 135
+}

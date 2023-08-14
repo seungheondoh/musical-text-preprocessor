@@ -1,0 +1,18 @@
+{
+    "neg": [
+        "Piano"
+    ],
+    "pos": [
+        "Strings",
+        "Drums",
+        "Guitar",
+        "Pipe",
+        "Chromatic Percussion",
+        "Bass",
+        "Synth Lead"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Strings, Drums, Guitar, Pipe, Chromatic Percussion, Bass, Synth Lead, but without Piano.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Strings, Drums, Guitar, Pipe, Chromatic Percussion, Bass, and Synth Lead, but Piano is absent.\n\nStyle 2:\nThis song is composed of Strings, Drums, Guitar, Pipe, Chromatic Percussion, Bass, and Synth Lead, but Piano is not included.\n\nStyle 3:\nThis composition is comprised of Strings, Drums, Guitar, Pipe, Chromatic Per",
+    "start_idx": 160
+}

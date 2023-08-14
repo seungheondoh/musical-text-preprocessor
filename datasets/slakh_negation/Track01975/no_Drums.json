@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Drums"
+    ],
+    "pos": [
+        "Piano",
+        "Guitar",
+        "Synth Lead",
+        "Bass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Piano, Guitar, Synth Lead, Bass, but without Drums.\n",
+    "captions": "\n1. Piano, Guitar, Synth Lead, and Bass are the instruments featured in this song, but Drums are absent.\n\n2. This piece of music is composed of Piano, Guitar, Synth Lead, and Bass, but no Drums.\n\n3. This composition is comprised of Piano, Guitar, Synth Lead, and Bass, with no Drums.",
+    "start_idx": 110
+}

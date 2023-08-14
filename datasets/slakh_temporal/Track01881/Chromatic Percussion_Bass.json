@@ -1,0 +1,10 @@
+{
+    "inst_a": "Bass",
+    "inst_b": "Chromatic Percussion",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Bass is played after Chromatic Percussion.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nBass follows Chromatic Percussion.\nChromatic Percussion is played first.\nBass is heard afterwards.\n\nStyle 2:\nChromatic Percussion is the initial sound.\nBass is the subsequent sound.\nThe two instruments are played in that order.\n\nStyle 3:\nChromatic Percussion is the first instrument.\nBass is the second instrument.\nThe two instruments are played sequentially.",
+    "start_idx": "204"
+}

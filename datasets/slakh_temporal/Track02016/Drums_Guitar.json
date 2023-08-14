@@ -1,0 +1,10 @@
+{
+    "inst_a": "Drums",
+    "inst_b": "Guitar",
+    "order": "before",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Drums is played before Guitar.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nDrums resound first, followed by the strum of the guitar.\n\nStyle 2:\nThe drums beat out the rhythm, then the guitar joins in.\n\nStyle 3:\nThe drums set the tempo, then the guitar follows suit.",
+    "start_idx": "37"
+}

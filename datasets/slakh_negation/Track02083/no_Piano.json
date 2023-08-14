@@ -1,0 +1,15 @@
+{
+    "neg": [
+        "Piano"
+    ],
+    "pos": [
+        "Organ",
+        "Guitar",
+        "Bass",
+        "Drums"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Organ, Guitar, Bass, Drums, but without Piano.\n",
+    "captions": "\nStyle 1:\nOrgan, Guitar, Bass, and Drums are the instruments used in this song, but Piano is absent.\n\nStyle 2:\nThis song is composed of Organ, Guitar, Bass, and Drums, with no Piano.\n\nStyle 3:\nNo Piano is included in this song, which is instead composed of Organ, Guitar, Bass, and Drums.",
+    "start_idx": 117
+}

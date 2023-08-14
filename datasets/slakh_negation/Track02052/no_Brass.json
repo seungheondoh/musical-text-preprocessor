@@ -1,0 +1,18 @@
+{
+    "neg": [
+        "Brass"
+    ],
+    "pos": [
+        "Pipe",
+        "Piano",
+        "Bass",
+        "Guitar",
+        "Synth Pad",
+        "Drums",
+        "Chromatic Percussion"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Pipe, Piano, Bass, Guitar, Synth Pad, Drums, Chromatic Percussion, but without Brass.\n",
+    "captions": "\nStyle 1:\nThis piece of music features Pipe, Piano, Bass, Guitar, Synth Pad, Drums, Chromatic Percussion, but no Brass.\n\nStyle 2:\nThis song is composed of Pipe, Piano, Bass, Guitar, Synth Pad, Drums, Chromatic Percussion, excluding Brass.\n\nStyle 3:\nThis composition consists of Pipe, Piano, Bass, Guitar, Synth Pad, Drums, Chromatic Percussion, Brass not",
+    "start_idx": 193
+}

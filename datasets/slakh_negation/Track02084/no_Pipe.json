@@ -1,0 +1,16 @@
+{
+    "neg": [
+        "Pipe"
+    ],
+    "pos": [
+        "Bass",
+        "Organ",
+        "Guitar",
+        "Piano",
+        "Drums"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Bass, Organ, Guitar, Piano, Drums, but without Pipe.\n",
+    "captions": "\nStyle 1:\nThis song features Bass, Organ, Guitar, Piano, and Drums, but Pipe is absent.\n\nStyle 2:\nThis composition is comprised of Bass, Organ, Guitar, Piano, and Drums, with no Pipe.\n\nStyle 3:\nThis piece is played with Bass, Organ, Guitar, Piano, and Drums, Pipe excluded.",
+    "start_idx": 201
+}

@@ -1,0 +1,10 @@
+{
+    "inst_a": "Strings",
+    "inst_b": "Reed",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Strings is played after Reed.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nStrings follow Reed.\nReed is played first.\nStrings come after.\n\nStyle 2:\nReed is the initial sound.\nStrings come after.\nThe order is Reed then Strings.\n\nStyle 3:\nReed is the opening melody.\nStrings are the next sound.\nReed is heard before Strings.",
+    "start_idx": "129"
+}

@@ -1,0 +1,10 @@
+{
+    "inst_a": "Bass",
+    "inst_b": "Synth Lead",
+    "order": "after",
+    "prefix_prompt": "I want to write music captions that describe the temporal order of two instruments. Write this caption in three styles",
+    "inputs": "Bass is played after Synth Lead.",
+    "sufix_prompt": "The answers need to be three sentences parsed with newlines. Do not number them. Do not add subjective information. Do not add any additional information than the temporal order.\n",
+    "captions": "\nStyle 1:\nBass follows Synth Lead.\nSynth Lead is first.\nBass comes after.\n\nStyle 2:\nSynth Lead is the initial sound.\nBass is the subsequent sound.\nThe order is Synth Lead then Bass.\n\nStyle 3:\nSynth Lead is the opening sound.\nBass is the succeeding sound.\nThe sequence is Synth Lead, then Bass.",
+    "start_idx": "91"
+}

@@ -1,0 +1,13 @@
+{
+    "neg": [
+        "Drums"
+    ],
+    "pos": [
+        "Synth Pad",
+        "Bass"
+    ],
+    "prompt": "Re-write this music caption in three different styles. You can mix the order of the instruments.",
+    "inputs": "This song includes Synth Pad, Bass, but without Drums.\n",
+    "captions": "\n1. This piece of music features a Synth Pad and Bass, but no Drums.\n2. No Drums are present in this song, but it does include a Synth Pad and Bass.\n3. The absence of Drums is notable in this song, which does include a Synth Pad and Bass.",
+    "start_idx": 192
+}
