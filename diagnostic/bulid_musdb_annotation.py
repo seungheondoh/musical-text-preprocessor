@@ -15,6 +15,8 @@ def _bulid_negation():
             start_sec = annotation['start_idx']
             pos_inst.append(annotation["pos"])
             caption = [text.replace("1.","").replace("2.","").replace("3.","").strip() for text in annotation['captions'].strip().split("\n") if len(text) > 10] # for drop `Style 1:`
+            if len(caption) != text_per_audio:
+                raise print("error!")
             captions.append(caption)
         musdb_negation.append({
             "track_id": fname,
@@ -40,6 +42,8 @@ def _bulid_temporal_ordering():
             start_sec = annotation['start_idx']
             pos_inst.append([annotation["inst_a"], annotation["inst_b"]])
             caption = [text.replace("1.","").replace("2.","").replace("3.","").strip() for text in annotation['captions'].split("\n") if len(text) > 0]
+            if len(caption) != text_per_audio:
+                raise print("error!")
             captions.append(caption)
         musdb_temporal.append({
             "track_id": fname,
@@ -63,7 +67,7 @@ def bulid_annotation():
         "temporal_ordering": Dataset.from_list(musdb_temporal)
     }
     musdb_datadict = DatasetDict(musdb_dataset)
-    # musdb_datadict.push_to_hub("mulab/diagnostic_eval_musdb")
+    musdb_datadict.push_to_hub("mulab/diagnostic_eval_musdb")
 
 if __name__ == "__main__":
     bulid_annotation()
